@@ -1,0 +1,8 @@
+* {
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.quiz, .scores {
+    margin: 100px auto 0 auto;
+    max-width: 400px;
+}
