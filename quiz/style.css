@@ -28,3 +28,22 @@ p {
     top: 15px;
     right: 15px;
 }
+
+button {
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #515052;
+    border-radius: 5px;
+    border: 0;
+    padding: 20px;
+}
+
+button:hover {
+    background-color: #9e99a1;
+}
+
+.options button {
+    display: block;
+}
