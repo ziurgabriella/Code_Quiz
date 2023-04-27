@@ -6,3 +6,25 @@
     margin: 100px auto 0 auto;
     max-width: 400px;
 }
+
+p {
+    margin: 15px 15px;
+}
+
+/**/
+
+.landing {
+    text-align: center;
+}
+
+.scoresHeader {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.timer {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
