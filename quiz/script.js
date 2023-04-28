@@ -34,3 +34,7 @@ var startBtn = document.querySelector("#start");
 var nameEl = document.querySelector("#name");
 var feedbackEl = document.querySelector("#feedback");
 var reStartBtn = document.querySelector("#restart");
+
+var currentQuestionIndex = 0;
+var time = questions.length * 15;
+var timerId;
