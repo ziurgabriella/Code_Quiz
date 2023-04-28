@@ -1,5 +1,5 @@
 # Code_Quiz
-
+![](./quiz/Screenshot%202023-04-27%20at%208.54.47%20PM.png)
 As you progress towards becoming a full-stack web developer, it's probable that you'll encounter a coding assessment as part of an interview process. These assessments usually consist of multiple-choice questions and interactive coding challenges. To help you prepare for such tests and apply the skills taught in this module, our client is requesting that you create a timed coding quiz that features multiple-choice questions, runs on a browser, and utilizes JavaScript code to dynamically update the HTML and CSS for a visually appealing, polished, and responsive user interface.
 
 ## User Story
